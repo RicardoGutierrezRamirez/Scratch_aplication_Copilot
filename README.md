@@ -1,2 +1,2 @@
-# Scratch_aplication_Copilot
+# Translate_simple_aplication_Copilot
 Scheduler
